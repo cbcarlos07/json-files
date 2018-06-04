@@ -1,0 +1,9 @@
+{
+"dados": [
+   {"nome": "Carlos", "empresa": 1},
+   {"nome": "Vicente", "empresa": 2},
+   {"nome": "Maiza", "empresa": 2},
+   {"nome": "Charles", "empresa": 1},
+   {"nome": "Michel", "empresa": 2}
+  ]
+}  
