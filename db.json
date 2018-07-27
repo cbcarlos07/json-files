@@ -1,6 +1,6 @@
 
 {
-  dados: [
+  "dados": [
   {"temperature": 20, "date": "01/07/2018"},
   {"temperature": 27, "date": "02/07/2018"},
   {"temperature": 25, "date": "03/07/2018"},
